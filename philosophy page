@@ -1,14 +1,26 @@
-<!DOCTYPE html>
+
+ <!DOCTYPE html>
 <html>
 <head>
 
     <style>
-    #header{
-    background-color:#F7E7CE;
-    color:#659EC7;
-    text-align:center;
-    padding:6px;
-    }
+         body  {
+         background-image: url("http://www.kaleconsultinggroup.com/wp-content/uploads/2014/06/Kale_Consulting_Home_Kale_BG.jpg");
+         background-color: #339933;
+         }
+         </style>
+         <style>
+       #section{
+      width:60%;
+      margin: auto;
+      padding:10px;
+      background-color: white;
+      opacity: 0.6;
+      filter: Alpha(opacity=50); 
+      }
+        
+      </style>
+  <style>
     ul {
     list-style-type: none;
     margin: 6px;
@@ -44,8 +56,7 @@
     <title></title>
 </head>
 <body>
-    <div id="header">
-        <div id="three">
+        <div id="section">
             <center>
                 <h1>VEG-OUT</h1>
                 <ul>
