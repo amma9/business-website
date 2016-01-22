@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <style>
+    #header{
+    background-color:#F7E7CE;
+    color:#659EC7;
+    text-align:center;
+    padding:6px;
+    }
+    ul {
+    list-style-type: none;
+    margin: 6px;
+    padding: 6px;
+    overflow: hidden;
+    background-color:#F7E7CE;
+    }
+
+    li {
+    float: left;
+    }
+
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+    li a:hover:not(.active) {
+    background-color:#659EC7;
+    }
+
+    .active {
+    background-color:#659EC7;
+    }
+    #three {
+    border-style: dotted;
+    border-width: 5px;
+    }
+    </style>
+    <title></title>
+</head>
+<body>
+    <div id="header">
+        <div id="three">
+            <center>
+                <h1>VEG-OUT</h1>
+                <ul>
+                    <li>
+                        <a class="active" href=
+                        "file:///Users/ammathomas/Documents/preoject_with_jQuery/business-website/veghome.html#contact">
+                        Home</a>
+                    </li>
+                    <li>
+                        <a href=
+                        "file:///Users/ammathomas/Downloads/menu%20(1).html">Menu</a>
+                    </li>
+                    <li>
+                        <a href=
+                        "file:///Users/ammathomas/Downloads/contact.html">Contact</a>
+                    </li>
+                    <li>
+                        <a href=
+                        "file:///Users/ammathomas/Documents/preoject_with_jQuery/business-website/Philosophy.html">
+                        Philosophy</a>
+                    </li>
+                </ul>
+                <center>
+                    <h2>Philosphy</h2>
+                    <p>Veg-Out est.2020 was created by two sisters who were
+                    born and raised vegetarian. They wanted to create an
+                    establishment that had quick healthy food that meet many
+                    dietary needs.Veg-Out is very unique because it includes
+                    gluten free ,raw and tasty vegan options.</p>
+                    <h4>Social media.</h4>
+                    <p><a href="https://www.facebook.com/">Facebook</a>
+                    <a href="https://www.instagram.com/?hl=en">Instagram</a>
+                    <a href="https://twitter.com/">Twitter</a></p>
+                </center>
+            </center>
+        </div>
+    </div>
+</body>
+</html>
